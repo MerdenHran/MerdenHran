@@ -1,5 +1,5 @@
 <img align = "center" src="banner_gh.png" alt="" >
-##About me
+<h1>About me</h1>
 I'm a C# developer.
 I like drawing, science, math and math algorithms.
 Are you an employer? <a href="">Visit my website portfolio</a>
