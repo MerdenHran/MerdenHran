@@ -1,11 +1,11 @@
 <img align = "center" src="banner_gh.png" alt="" >
-<h2>About me</h2>
+## About me :sunglasses:
 <p>I'm a C# developer.<br>
   I like drawing, science, math and math algorithms.<br>
   Are you an employer? <a href="">Visit my website portfolio</a><br>
   See my artworks on <a href="https://www.deviantart.com/merdenhran">DeviantArt</a>
 </p>
-
+## Contribution Graph 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerdenHran&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerdenHran&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
