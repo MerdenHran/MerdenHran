@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align = "center" src="banner_gh.png" alt="" >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerdenHran&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerdenHran&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
