@@ -1,9 +1,9 @@
 <img align = "center" src="banner_gh.png" alt="" >
-<h1>About me</h1>
+<h2>About me</h2>
 <p>I'm a C# developer.<br>
   I like drawing, science, math and math algorithms.<br>
   Are you an employer? <a href="">Visit my website portfolio</a><br>
-  My <a href="https://www.deviantart.com/merdenhran">DeviantArt</a>
+  See my artworks on <a href="https://www.deviantart.com/merdenhran">DeviantArt</a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerdenHran&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
