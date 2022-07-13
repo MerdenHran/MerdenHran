@@ -5,11 +5,15 @@
   Are you an employer? <a href="">Visit my website portfolio</a><br>
   See my artworks on <a href="https://www.deviantart.com/merdenhran">DeviantArt</a>
 </p>
+
+<h2>Languages 📝</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerdenHran&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Contribution Graph 📊</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerdenHran&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerdenHran&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MerdenHran/MerdenHran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
