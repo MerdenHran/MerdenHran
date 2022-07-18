@@ -1,0 +1,48 @@
+body{
+	background-image: url(../images/on-the-seabed.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+main{
+	color: white;
+	font-size: 3.1vmin;
+	margin: 3vw;
+}
+
+section{
+	float: left;
+	margin: 2vw;
+}
+
+h1{
+	margin: 0.8vw;
+	padding: 0;
+	text-align: center;
+}
+
+h2{
+	margin: 0;
+	padding: 0 0 1vw;
+}
+
+a{
+	color: white;
+}
+
+td{
+	padding: 0 0.4vw 0 0;
+}
+
+ul{
+	margin: 0;
+	padding: 0 0 0 1.4em;
+}
+
+.star{
+	color: yellow;
+	font-size: 1.1em;
+	padding: 0;
+}

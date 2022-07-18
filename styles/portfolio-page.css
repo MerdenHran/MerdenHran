@@ -1,0 +1,34 @@
+body{
+	background-image: url(../images/on-the-seabed-light.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+main{
+	background-color: yellow;
+	font-size: 3.5vmin;
+	margin: 30px auto;
+	padding: 10px 0;
+	border-radius: 70px;
+	max-width: 1000px;
+}
+
+p{
+	margin: 10px 30px;
+	padding: 0;
+}
+
+img{
+	height: 23vw;
+	float: left;
+	margin: 10px 20px 20px;
+}
+
+i{
+	color: blue;
+	font-style: normal;
+}
+
+
