@@ -1,6 +1,6 @@
 <img align = "center" src="banner_gh.png" alt="" >
 <h2>About me :sunglasses:</h2>
-<p>I'm a C# developer.<br>
+<p>I'm a C#, Unity developer.<br>
   I like drawing, science, math and math algorithms.<br>
   Are you an employer? <a href="https://merdenhran.github.io/MerdenHran/">Visit my website portfolio</a><br>
   See my artworks on <a href="https://www.deviantart.com/merdenhran">DeviantArt</a>
